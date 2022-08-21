@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Admin
+ *
+ */
+module Selenium1 {
+	requires jakarta.activation;
+}
